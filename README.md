@@ -1,6 +1,6 @@
 # Raissa Miranda 
 <samp> 🎓 Estudante de ADS no IFSP </samp> <br>
-<samp> 🎮 Criando jogos por hobby </samp>
+<samp> 🎮 Criando jogos no tempo livre </samp>
 
 <div align="left">
   <a href="https://linkedin.com/in/raissa-miranda-32988b2a8" target="_blank">
@@ -25,23 +25,23 @@
 #
 
 <h3> Estatísticas </h3>
-<div>
+<p>
   <img 
-    align="left" 
+    align="left"
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=raiimiranda&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiimiranda&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</p>
+<br>
 
 #
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiimiranda/raiimiranda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiimiranda/raiimiranda/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raiimiranda/raiimiranda/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raiimiranda/raiimiranda/output/github-contribution-grid-snake.svg">
 </picture>
