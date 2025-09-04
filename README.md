@@ -1,6 +1,5 @@
-# Raissa Miranda 
-<samp> 🎓 Estudante de ADS no IFSP </samp> <br>
-<samp> 🎮 Criando jogos no tempo livre </samp>
+# 💻 Raissa Miranda 
+<samp> Construindo mini-mundos de pixels enquanto estudo ADS no IFSP. </samp> <br>
 
 <div align="left">
   <a href="https://linkedin.com/in/raissa-miranda-32988b2a8" target="_blank">
@@ -13,18 +12,6 @@
 
 #
 
-<h3> Tecnologias e Linguagens </h3>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=HTML&label=&color=E34F26&labelColor=&style=for-the-badge" height="25" alt="HTML" />
-  <img src="https://img.shields.io/static/v1?message=CSS&label=&color=1572B6&labelColor=&style=for-the-badge" height="25" alt="CSS" />
-  <img src="https://img.shields.io/static/v1?message=C%2B%2B&label=&color=00599C&labelColor=&style=for-the-badge" height="25" alt="C++" />
-  <img src="https://img.shields.io/static/v1?message=Java&label=&color=007396&labelColor=&style=for-the-badge" height="25" alt="Java" />
-  <img src="https://img.shields.io/static/v1?message=SQL&label=&color=00758F&labelColor=&style=for-the-badge" height="25" alt="SQL" />
-</div>
-
-#
-
-<h3> Estatísticas </h3>
 <p>
   <img 
     align="left"
